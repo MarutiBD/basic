@@ -28,4 +28,4 @@ def flames(name1, name2):
 # Example usage
 name1 = input("Enter first name: ").strip()
 name2 = input("Enter second name: ").strip()
-print("The relation is :", flames(name1, name2))
+print("The relation is :", flames(name1, name2))////////////
